@@ -1,12 +1,12 @@
 ### Olá!
- Eu sou a Noélia Justiniano de Oliveira Santos.
- 
- Estudante de Análise e Desenvolvimento de Sistemas  3/4.
-<div> 
+ Eu sou a Noélia Santos.
+ Sou formada em análise e desenvolvimento de sistemas e atualmente estou cursando uma pós em engenharia de software.👩🏽👩🏽‍💻💻
+<div> ![Uploading BtsBtsMembersGIF.gif…]()
+
 
   <a href="https://instagram.com/noeliasantos264" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:noeliasantos264@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/noelia-santos-905643217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/noelia-santos-905643217/" target="_blank"><img src="https://www.linkedin.com/in/noelia-justiniano-de-oliveira-santos-905643217/&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **NoeliaSanto/NoeliaSanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
