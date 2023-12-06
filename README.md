@@ -1,7 +1,8 @@
 ### Olá!
  Eu sou a Noélia Santos.
+ 
  Sou formada em análise e desenvolvimento de sistemas e atualmente estou cursando uma pós em engenharia de software.👩🏽👩🏽‍💻💻
-<div> ![Uploading BtsBtsMembersGIF.gif…]()
+
 
 
   <a href="https://instagram.com/noeliasantos264" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
