@@ -1,5 +1,5 @@
 ### Olá!
- Eu sou a Noélia Santos, Formada em análise e desenvolvimento de sistemas e atualmente estou cursando uma pós em engenharia de software.👩🏽👩🏽‍💻💻
+ 
 
 
 
